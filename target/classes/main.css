@@ -1,0 +1,42 @@
+/**
+ * Write CSS code in this file to style your JavaFX user interface
+ *
+ * Note: You must link this file to your scene object by adding the following line of code to the
+ * JavaFX start() method:
+ *   scene.getStylesheets().add("main.css");
+ */
+ .illegal {
+      -fx-color: #ff474c;
+  }
+
+  .wall {
+    -fx-color: #d3d3d3;
+  }
+
+  .lit {
+     -fx-color: #fdfd96;
+  }
+
+   .satisfied {
+         -fx-color: #90EE90;
+  }
+
+  .menu {
+       -fx-padding: 0 0 0 30;
+  }
+
+  .text {
+       -fx-padding: 10 0 0 0;
+  }
+
+  .grid {
+     -fx-padding: 10 30 0 30;
+  }
+
+  .popup {
+        -fx-padding: 10 0 10 0;
+  }
+
+  .pink {
+    -fx-color: #FFC0CB;
+  }
